@@ -63,7 +63,7 @@ _____                 _                               _             __  _____   
 			  | |                                                                                                            
 			  |_|                                                                                                            
 In order to get the script up and running you'll need to install Auto Hot Key (https://www.autohotkey.com/). Simply click the download button and install as you would any other program. After installing Auto Hot Key, it should automatically associate .ahk files. Simply double click to get the script up and running.
-
+ 
 _   _                      
 | | | |                     
 | | | |___  __ _  __ _  ___ 
